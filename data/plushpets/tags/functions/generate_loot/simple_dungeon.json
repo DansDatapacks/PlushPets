@@ -1,0 +1,7 @@
+{
+    "values": [
+        "plushpets.1:api/plush_pet_loot/simple_dungeon/slime",
+        "plushpets.1:api/plush_pet_loot/simple_dungeon/skeleton",
+        "plushpets.1:api/plush_pet_loot/simple_dungeon/zombie"
+    ]
+}

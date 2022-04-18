@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Blaze Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;-590179430,1822902419,-1168112879,725719860],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmMwMWIwZDY4M2NjYjVhMzMxMjg2N2E4ZmFiMDg2NDg0OTU1NzUwZWQ1YTg1NzdkNTRmZWQxODI3MTg2NWIwYSJ9fX0=\"}]}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

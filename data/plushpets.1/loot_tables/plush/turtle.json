@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Turtle Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;1933865146,505561807,-1382405057,-512303876],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjdlNDM4NzkyNjkxZTM1MTI4ODUxM2QyOTBjM2U1ODdlMjYyYWY3MDAyNTY0MmJlY2EwZmI1ZDQ3ZjViNWYwMSJ9fX0=\"}]}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

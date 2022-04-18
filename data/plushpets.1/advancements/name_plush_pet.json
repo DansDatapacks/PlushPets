@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:player_interacted_with_entity",
+        "conditions": {
+          "item": {
+            "item": "minecraft:name_tag"
+          },
+          "entity": {
+            "type": "minecraft:villager"
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "plushpets.1:check_plush_pet_right_click"
+    }
+}

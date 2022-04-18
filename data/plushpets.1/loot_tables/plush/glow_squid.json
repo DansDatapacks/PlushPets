@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Glow Squid Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;-2053210388,766854244,-1657651112,2058878619],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTVlMmI0NmU1MmFjOTJkNDE5YTJkZGJjYzljZGNlN2I0NTFjYjQ4YWU3MzlkODVkNjA3ZGIwNTAyYTAwOGNlMCJ9fX0=\"}]}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

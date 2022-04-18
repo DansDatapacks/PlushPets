@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Wandering Trader Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;1464190660,-2114565279,-1846848427,1639059880],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDViNjQ4NGNiOGE3NWNkZjgwMTE3ZmI2Mzc1ZGIyMDhjZGI1NjAzYTkwNDQ3NTVkMTg3N2NlNGFiYWE0ZjZmNSJ9fX0=\"}]}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

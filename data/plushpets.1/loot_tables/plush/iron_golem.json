@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Iron Golem Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;300536547,-2142484621,-1826439670,528809307],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDY0ZTA4ZTY5MTc5NzJhMDdjODZkYjRlZjFhYmRmMTk5NjMyOGNmNDE5YjNmYjUxZWRlZDI3YjlmZDg2MzMzYiJ9fX0=\"}]}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

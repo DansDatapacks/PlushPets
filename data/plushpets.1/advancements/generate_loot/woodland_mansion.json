@@ -1,0 +1,13 @@
+{
+    "rewards": {
+        "function": "plushpets.1:api/generate_loot/woodland_mansion"
+    },
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:player_generates_container_loot",
+        "conditions": {
+            "loot_table": "minecraft:chests/woodland_mansion"
+        }
+      }
+    }
+}

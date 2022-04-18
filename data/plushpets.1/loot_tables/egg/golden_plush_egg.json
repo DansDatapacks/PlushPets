@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Golden Plush Egg\",\"italic\":false,\"color\":\"light_purple\"}'},SkullOwner:{Id:[I;-1165485847,-104968802,-1516209898,-1373765208],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjI1NjE3NmJmM2M3OWVhZGFkZjA5NDNjNWU4NDc3NmE5NWVlYzFhNjJlM2FhYzA5ZmJhNmUzMGMzMjBmNDkwNyJ9fX0=\"}]}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

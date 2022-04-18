@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Piglin Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;-1386709567,-1441838283,-1805443185,-1167368147],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODg1ZWM0OTZhM2NhM2ZjNTY3OWUyY2Y1NjU3ZGJmODM2M2U4MjBlMjJkMWM2M2I1NzM3OTBjYmQ0MDVjOWIzZiJ9fX0=\"}]}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

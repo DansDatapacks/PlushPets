@@ -1,0 +1,13 @@
+{
+    "rewards": {
+        "function": "plushpets.1:api/generate_loot/igloo_chest"
+    },
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:player_generates_container_loot",
+        "conditions": {
+            "loot_table": "minecraft:chests/igloo_chest"
+        }
+      }
+    }
+}

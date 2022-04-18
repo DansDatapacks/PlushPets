@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"sourcecraft.click_detect_entity\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+      "function": "sourcecraft.3:click_detect/on_right_click"
+  }
+}

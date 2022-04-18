@@ -1,0 +1,13 @@
+{
+    "rewards": {
+        "function": "plushpets.1:api/generate_loot/village_shepherd"
+    },
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:player_generates_container_loot",
+        "conditions": {
+            "loot_table": "minecraft:chests/village/village_shepherd"
+        }
+      }
+    }
+}

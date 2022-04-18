@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Vindicator Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;-923926806,-650820596,-1852925175,-398126818],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjU4MGQ0ZTIzZjY2MmYxYzk2OWNmYmEwMDA2NjRmOGY4MmEyODYzODZlZDhhMzNmOWI0MjU2MzY1ODllOGVhOSJ9fX0=\"}]}}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,6 @@
+{
+    "values": [
+        "sourcecraft.3:on_event/on_load_verify",
+        "plushpets.1:on_event/on_load_verify"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:entity_properties",
+			"entity": "this",
+			"predicate": {
+				"type": "minecraft:player",
+					"equipment": {
+					"mainhand": {
+						"items": [
+							"minecraft:glistering_melon_slice"
+						]
+					}
+				}
+			}
+		},
+		{
+			"condition": "minecraft:entity_properties",
+			"entity": "this",
+			"predicate": {
+				"type": "minecraft:player",
+				"equipment": {
+					"offhand": {
+						"items": [
+							"minecraft:glistering_melon_slice"
+						]
+					}
+				}
+			}
+		}
+	]
+}

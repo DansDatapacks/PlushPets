@@ -1,0 +1,11 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "player": {
+        "advancements": {
+          "plushpets.1:name_plush_pet": true
+        }
+      }
+    }
+  }

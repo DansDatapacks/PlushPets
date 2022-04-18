@@ -1,0 +1,10 @@
+{
+    "rewards": {
+      "function": "sourcecraft.3:check_hand/on_inventory_change"
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed"
+      }
+    }
+  }
