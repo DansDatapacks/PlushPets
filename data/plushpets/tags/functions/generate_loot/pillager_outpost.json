@@ -2,6 +2,7 @@
     "values": [
         
         "plushpets.1:api/plush_pet_loot/pillager_outpost/ravager",
-        "plushpets.1:api/plush_pet_loot/pillager_outpost/witch"
+        "plushpets.1:api/plush_pet_loot/pillager_outpost/witch",
+        "plushpets.1:api/plush_pet_loot/pillager_outpost/allay"
     ]
 }
