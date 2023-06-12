@@ -89,8 +89,8 @@ execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;2054371935,2111524143,-1163806045,-565648041]}}}} run tag @s add plushpets.item_plush_set
 
 #panda
-execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-1381094303,-2055976791,-1586456428,1422941924]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/panda
-execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-1381094303,-2055976791,-1586456428,1422941924]}}}} run tag @s add plushpets.item_plush_set
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;363204382,-1917239008,-1773235149,-2009567484]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/panda
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;363204382,-1917239008,-1773235149,-2009567484]}}}} run tag @s add plushpets.item_plush_set
 
 #pig
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;133744651,-1481946037,-1851806171,-51675288]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/pig
