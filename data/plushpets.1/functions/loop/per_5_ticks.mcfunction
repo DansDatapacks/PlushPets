@@ -32,4 +32,4 @@ execute as @e[type=minecraft:wandering_trader,tag=!plushpets.wandering_trader_in
 scoreboard players reset @a plushpets.rightclick
 
 #loop
-schedule function plushpets.1:loop/per_5_ticks 1t replace
+schedule function plushpets.1:loop/per_5_ticks 5t replace
