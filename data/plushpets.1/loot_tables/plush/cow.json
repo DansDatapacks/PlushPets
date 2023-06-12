@@ -1,19 +1,19 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:player_head",
-            "functions": [
-              {
-                "function": "minecraft:set_nbt",
-                "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Cow Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;971125897,992560611,-1327156472,-1510837966],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWJjNGY3NDc3ZDZiNTk2OWRiNGM4MWEzMWIxY2I3ZTZmMzczMGRlMTliNTBmNzhjOTYyMTdiOWQzOTJmMDk3YiJ9fX0=\"}]}}}"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Cow Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;1923789496,1947814254,-1286370920,939906553],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTRiMzk4MjdjMmM4MDQzMjhlNjc3N2M5ZWRmZDY1MzExYjI2ZTI0ZmY5ODExNzAwMTlkYjk4OTIzNWI3MzNmNiJ9fX0=\"}]}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

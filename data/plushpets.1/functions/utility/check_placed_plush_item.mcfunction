@@ -19,7 +19,7 @@ execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-590179430,1822902419,-1168112879
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;854160726,1555254121,-1159745984,75904377]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 
 #cow
-execute if data block ~ ~ ~ {SkullOwner:{Id:[I;971125897,992560611,-1327156472,-1510837966]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
+execute if data block ~ ~ ~ {SkullOwner:{Id:[I;1923789496,1947814254,-1286370920,939906553]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 
 #creeper
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-215293920,553207038,-1301846297,-138099246]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
