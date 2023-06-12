@@ -1,27 +1,31 @@
 {
 	"pack": {
-		"pack_format": 10,
+		"pack_format": 15,
 		"description": [
 			{
-				"text": "Animate Plushes Into Pets! ",
+				"text": "Animate Plushes Into Pets!",
 				"color": "gray"
 			},
+			{"text": " "},
 			{
-				"text": "v1.2 ",
+				"text": "v1.2",
 				"color": "dark_green"
 			},
+			{"text": " "},
 			{
-				"text": "[1.19+] ",
+				"text": "[1.20+]",
 				"color": "green"
 			},
+			{"text": " "},
 			{
 				"text": "(",
 				"color": "dark_gray"
 			},
 			{
-				"text": "By ",
+				"text": "By",
 				"color": "gray"
 			},
+			{"text": " "},
 			{
 				"text": "DanMizu",
 				"color": "aqua"
