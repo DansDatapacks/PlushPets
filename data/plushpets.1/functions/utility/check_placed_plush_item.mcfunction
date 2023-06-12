@@ -121,7 +121,7 @@ execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-923926806,-650820596,-1852925175
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;1464190660,-2114565279,-1846848427,1639059880]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 
 #warden
-execute if data block ~ ~ ~ {SkullOwner:{Id:[I;176765286,-2101853707,-1211337435,-2072152308]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
+execute if data block ~ ~ ~ {SkullOwner:{Id:[I;1050022092,1091521613,-1451049480,-1709282467]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 
 #witch
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;1236956174,1444038999,-1174900994,-1110401334]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
