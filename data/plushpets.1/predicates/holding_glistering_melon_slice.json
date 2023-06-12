@@ -1,12 +1,11 @@
 {
-	"condition": "minecraft:alternative",
+	"condition": "minecraft:any_of",
 	"terms": [
 		{
 			"condition": "minecraft:entity_properties",
 			"entity": "this",
 			"predicate": {
-				"type": "minecraft:player",
-					"equipment": {
+				"equipment": {
 					"mainhand": {
 						"items": [
 							"minecraft:glistering_melon_slice"
@@ -19,7 +18,6 @@
 			"condition": "minecraft:entity_properties",
 			"entity": "this",
 			"predicate": {
-				"type": "minecraft:player",
 				"equipment": {
 					"offhand": {
 						"items": [
