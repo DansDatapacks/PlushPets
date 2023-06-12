@@ -93,8 +93,8 @@ execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-1381094303,-2055976791,-1586456428,1422941924]}}}} run tag @s add plushpets.item_plush_set
 
 #pig
-execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;1990880505,449988116,-1102119375,2109449601]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/pig
-execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;1990880505,449988116,-1102119375,2109449601]}}}} run tag @s add plushpets.item_plush_set
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;133744651,-1481946037,-1851806171,-51675288]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/pig
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;133744651,-1481946037,-1851806171,-51675288]}}}} run tag @s add plushpets.item_plush_set
 
 #piglin brute
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;1241502346,-578141749,-1868284456,802813997]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/piglin_brute

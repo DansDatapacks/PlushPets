@@ -73,7 +73,7 @@ execute if data block ~ ~ ~ {SkullOwner:{Id:[I;2054371935,2111524143,-1163806045
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-1381094303,-2055976791,-1586456428,1422941924]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 
 #pig
-execute if data block ~ ~ ~ {SkullOwner:{Id:[I;1990880505,449988116,-1102119375,2109449601]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
+execute if data block ~ ~ ~ {SkullOwner:{Id:[I;133744651,-1481946037,-1851806171,-51675288]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 
 #piglin brute
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;1241502346,-578141749,-1868284456,802813997]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
