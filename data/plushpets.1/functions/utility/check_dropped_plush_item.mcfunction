@@ -81,8 +81,8 @@ execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-2118935648,-124369273,-1620206448,-782886372]}}}} run tag @s add plushpets.item_plush_set
 
 #mooshroom
-execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-913494377,9914691,-1828146354,-1330008468]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/mooshroom
-execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-913494377,9914691,-1828146354,-1330008468]}}}} run tag @s add plushpets.item_plush_set
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-950111934,-917683585,-1636376833,-266642191]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/mooshroom
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-950111934,-917683585,-1636376833,-266642191]}}}} run tag @s add plushpets.item_plush_set
 
 #notch
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;2054371935,2111524143,-1163806045,-565648041]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/notch

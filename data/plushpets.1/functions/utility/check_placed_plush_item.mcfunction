@@ -64,7 +64,7 @@ execute if data block ~ ~ ~ {SkullOwner:{Id:[I;300536547,-2142484621,-1826439670
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-2118935648,-124369273,-1620206448,-782886372]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 
 #mooshroom
-execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-913494377,9914691,-1828146354,-1330008468]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
+execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-950111934,-917683585,-1636376833,-266642191]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 
 #notch
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;2054371935,2111524143,-1163806045,-565648041]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
