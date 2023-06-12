@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Panda Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;-1209933468,-1335341784,-1813133979,608476819],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWM5Y2IzOTEzZGE2ZjQyYTQyMjQ0YzliMmZhM2YxMjNlNzk4YTZkNjc3NDk2ODkwOWQxYzNjMTY3M2JmOTY3NCJ9fX0=\"}]}}}"
+              "tag": "{plushpets:{plush:\"true\"},display:{Name:'{\"text\":\"Panda Plush\",\"italic\":false,\"color\":\"aqua\"}'},SkullOwner:{Id:[I;363204382,-1917239008,-1773235149,-2009567484],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ViZmYwMWNiNWNlYTQzNTMwNjQ4YTZhNDRlMzNmZWJjM2Q5OWNiYzcwZjA4Zjg4NzFjZjMwYzYxNDdkMDFmNiJ9fX0=\"}]}}}"
             }
           ]
         }
