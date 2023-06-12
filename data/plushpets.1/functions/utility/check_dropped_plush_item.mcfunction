@@ -37,8 +37,8 @@ execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-109838158,-1748808774,-1607621472,1863437571]}}}} run tag @s add plushpets.item_plush_set
 
 #ghast
-execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;320685949,2069842824,-1871512578,-1487592628]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/ghast
-execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;320685949,2069842824,-1871512578,-1487592628]}}}} run tag @s add plushpets.item_plush_set
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;599583683,-557823658,-1930556164,-1165866836]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/ghast
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;599583683,-557823658,-1930556164,-1165866836]}}}} run tag @s add plushpets.item_plush_set
 
 #glow squid
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-2053210388,766854244,-1657651112,2058878619]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/glow_squid
