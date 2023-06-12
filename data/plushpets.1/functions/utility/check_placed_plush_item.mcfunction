@@ -90,6 +90,9 @@ execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-760283871,51924963,-1317570921,-
 #sheep
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;824160311,803882550,-1666328235,344214724]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 
+#skylinerw
+execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-1710441904,1315389737,-2045369322,279076938]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
+
 #shulker
 execute if data block ~ ~ ~ {SkullOwner:{Id:[I;-1778823362,-434352489,-1592043985,1155190429]}} run scoreboard players set #plushpets.is_plush sourcecraft.temp 1
 

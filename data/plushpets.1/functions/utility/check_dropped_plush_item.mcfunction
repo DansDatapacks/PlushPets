@@ -116,6 +116,10 @@ execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;824160311,803882550,-1666328235,344214724]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/sheep
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;824160311,803882550,-1666328235,344214724]}}}} run tag @s add plushpets.item_plush_set
 
+#skylinerw
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-1710441904,1315389737,-2045369322,279076938]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/skylinerw
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-1710441904,1315389737,-2045369322,279076938]}}}} run tag @s add plushpets.item_plush_set
+
 #shulker
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-1778823362,-434352489,-1592043985,1155190429]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/shulker
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-1778823362,-434352489,-1592043985,1155190429]}}}} run tag @s add plushpets.item_plush_set
