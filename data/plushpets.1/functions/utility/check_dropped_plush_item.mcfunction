@@ -16,6 +16,10 @@ execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-590179430,1822902419,-1168112879,725719860]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/blaze
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-590179430,1822902419,-1168112879,725719860]}}}} run tag @s add plushpets.item_plush_set
 
+#camel
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-2063066100,543967400,-2114579051,1347935226]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/camel
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-2063066100,543967400,-2114579051,1347935226]}}}} run tag @s add plushpets.item_plush_set
+
 #chicken
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;854160726,1555254121,-1159745984,75904377]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/chicken
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;854160726,1555254121,-1159745984,75904377]}}}} run tag @s add plushpets.item_plush_set
@@ -35,6 +39,10 @@ execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:
 #enderman
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-109838158,-1748808774,-1607621472,1863437571]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/enderman
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-109838158,-1748808774,-1607621472,1863437571]}}}} run tag @s add plushpets.item_plush_set
+
+#goat
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-1758786155,848642729,-1978850167,-1368899007]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/goat
+execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;-1758786155,848642729,-1978850167,-1368899007]}}}} run tag @s add plushpets.item_plush_set
 
 #ghast
 execute if data entity @s[tag=!plushpets.item_plush_set] {Item:{tag:{SkullOwner:{Id:[I;599583683,-557823658,-1930556164,-1165866836]}}}} run loot spawn ~ ~ ~ loot plushpets.1:plush/ghast
