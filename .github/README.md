@@ -149,9 +149,7 @@ You can toggle features of the pack by running commands like:
 </p>
 
 <p>
- <code>
- /function plushpets:options/<option name here>
- </code>
+ <code>/function plushpets:options/(option name here)</code>
 </p>
 
 <ul>
