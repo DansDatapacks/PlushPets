@@ -1,6 +1,6 @@
 {
     "values": [
-        "plushpets.1:api/plush_pet_loot/end_city_treasure/enderman",
-        "plushpets.1:api/plush_pet_loot/end_city_treasure/shulker"
+        "plushpets:plush_pet_loot/end_city_treasure/enderman",
+        "plushpets:plush_pet_loot/end_city_treasure/shulker"
     ]
 }

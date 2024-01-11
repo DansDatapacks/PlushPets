@@ -1,8 +1,8 @@
 {
     "values": [
-        "plushpets.1:api/plush_pet_loot/shipwreck_treasure/axolotl",
-        "plushpets.1:api/plush_pet_loot/shipwreck_treasure/glow_squid",
-        "plushpets.1:api/plush_pet_loot/shipwreck_treasure/pufferfish",
-        "plushpets.1:api/plush_pet_loot/shipwreck_treasure/turtle"
+        "plushpets:plush_pet_loot/shipwreck_treasure/axolotl",
+        "plushpets:plush_pet_loot/shipwreck_treasure/glow_squid",
+        "plushpets:plush_pet_loot/shipwreck_treasure/pufferfish",
+        "plushpets:plush_pet_loot/shipwreck_treasure/turtle"
     ]
 }

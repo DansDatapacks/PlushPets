@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "plushpets:generate_loot/village_desert_house"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "minecraft:chests/village/village_desert_house"
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
     "values": [
-        "plushpets.1:api/plush_pet_loot/village_fisher/turtle",
-        "plushpets.1:api/plush_pet_loot/village_fisher/pufferfish"
+        "plushpets:plush_pet_loot/village_fisher/turtle",
+        "plushpets:plush_pet_loot/village_fisher/pufferfish"
     ]
 }

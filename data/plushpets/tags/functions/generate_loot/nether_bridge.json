@@ -1,9 +1,9 @@
 {
     "values": [
-        "plushpets.1:api/plush_pet_loot/nether_bridge/wither_skeleton",
-        "plushpets.1:api/plush_pet_loot/nether_bridge/ghast",
-        "plushpets.1:api/plush_pet_loot/nether_bridge/blaze",
-        "plushpets.1:api/plush_pet_loot/nether_bridge/strider",
-        "plushpets.1:api/plush_pet_loot/nether_bridge/zombified_piglin"
+        "plushpets:plush_pet_loot/nether_bridge/wither_skeleton",
+        "plushpets:plush_pet_loot/nether_bridge/ghast",
+        "plushpets:plush_pet_loot/nether_bridge/blaze",
+        "plushpets:plush_pet_loot/nether_bridge/strider",
+        "plushpets:plush_pet_loot/nether_bridge/zombified_piglin"
     ]
 }

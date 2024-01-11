@@ -1,0 +1,13 @@
+{
+    "rewards": {
+        "function": "plushpets:generate_loot/ruined_portal"
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_generates_container_loot",
+        "conditions": {
+            "loot_table": "minecraft:chests/ruined_portal"
+        }
+      }
+    }
+}

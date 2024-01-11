@@ -1,6 +1,3 @@
 {
-    "values": [
-        "sourcecraft.3:on_event/on_pre_load",
-        "plushpets.1:on_event/on_pre_load"
-    ]
+	"values": []
 }

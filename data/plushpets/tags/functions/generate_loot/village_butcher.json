@@ -1,7 +1,7 @@
 {
     "values": [
-        "plushpets.1:api/plush_pet_loot/village_butcher/cow",
-        "plushpets.1:api/plush_pet_loot/village_butcher/pig",
-        "plushpets.1:api/plush_pet_loot/village_butcher/chicken"
+        "plushpets:plush_pet_loot/village_butcher/cow",
+        "plushpets:plush_pet_loot/village_butcher/pig",
+        "plushpets:plush_pet_loot/village_butcher/chicken"
     ]
 }
